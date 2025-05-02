@@ -19,7 +19,7 @@
 ## Hobbies
 
 - [**Aplicación Estudiante - Porcentaje de Asistencias**](https://github.com/AlxsDnt04/Aplicacion-estudiante-porcentaje-asistencias): Una aplicación web para gestionar y calcular el porcentaje de asistencia de estudiantes.
-- [**Otro Proyecto**](https://github.com/AlxsDnt04/Otro-Proyecto): Breve descripción de otro proyecto interesante que deseas destacar.
+- [**Otro Proyecto Proximamente**]
 
 
 ⭐️ **"El aprendizaje nunca se detiene. Todo paso cuenta hacia el éxito."**
