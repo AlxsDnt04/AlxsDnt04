@@ -1,25 +1,44 @@
-# 👋 ¡Hola! Soy @AlxsDnt04
+👋 Hola, soy Alexis
 
-¡Bienvenido a mi perfil! Soy un apasionado desarrollador web con interés en crear aplicaciones funcionales y atractivas. Aquí encontrarás algunos de mis proyectos y colaboraciones.
+💻 Estudiante de Desarrollo de Software
+🚀 Enfocado en desarrollo backend y construcción de proyectos prácticos
+📍 Ecuador
 
-## Sobre mí
+🧠 Sobre mí
 
-- 👀 **Me interesa**: Desarrollo web, diseño de interfaces, tecnologías emergentes y mejorar la experiencia del usuario.
-- 🌱 **Actualmente estoy aprendiendo**: Frameworks de JavaScript como React y Vue.js, así como técnicas avanzadas de CSS.
-- 💞️ **Busco colaborar en**: Proyectos de código abierto, aplicaciones educativas y herramientas que marquen la diferencia.
-- 📫 **Cómo contactarme**: 
-- ⚡ **Dato curioso**: ¡Siempre estoy buscando nuevas formas de automatizar tareas cotidianas!
+Soy estudiante de desarrollo de software con interés en crear aplicaciones funcionales y aprender mediante la práctica. Me gusta trabajar con arquitectura MVC, bases de datos y resolver problemas reales a través del código.
 
-## Tecnologías y herramientas
+⚙️ Tecnologías y herramientas
+💻 Lenguajes: Java, PHP, SQL
+🌐 Frontend: HTML, CSS
+🧠 Backend: MVC
+🗄️ Bases de datos: MySQL, Oracle
+🔧 Herramientas: Git, GitHub, VMware
+🌐 Redes: Configuración básica (Cisco)
+🚀 Proyectos destacados
+🔹 SistemaRolV2
 
-- **Lenguajes**: HTML, CSS, JavaScript
-- **Frameworks**: React, Vue.js (en progreso)
-- **Herramientas**: Git, GitHub, VS Code
+Sistema web con arquitectura MVC para gestión de empleados, roles y departamentos.
+📌 Tecnologías: PHP, MySQL, MVC
+🔗 Ver repositorio
 
-## Hobbies
+🔹 Formulario tipo Steam
 
-- [**Aplicación Estudiante - Porcentaje de Asistencias**](https://github.com/AlxsDnt04/Aplicacion-estudiante-porcentaje-asistencias): Una aplicación web para gestionar y calcular el porcentaje de asistencia de estudiantes.
-- [**Otro Proyecto Proximamente**]
+Formulario web con validación de datos y carga de archivos.
+📌 Tecnologías: PHP, HTML, MVC
 
+🔹 Configuración de red
 
-⭐️ **"El aprendizaje nunca se detiene. Todo paso cuenta hacia el éxito."**
+Implementación de red con múltiples subredes y control de acceso usando router Cisco.
+
+🔹 Base de datos redundante
+
+Sistema de replicación de base de datos con Oracle entre servidor físico y virtual.
+
+📈 Objetivo
+
+Seguir mejorando como desarrollador, aprender nuevas tecnologías y participar en proyectos que me permitan crecer profesionalmente.
+
+📫 Contacto
+
+📧 alexisfree@live.com
