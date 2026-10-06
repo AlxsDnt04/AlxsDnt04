@@ -1,4 +1,4 @@
-# Hi there, I'm Alexis Carrión 👋
+# Hi there, I'm Alexis 👋
 
 <p align="center">
   <b>Associate Degree in Software Development 🎓 | Web Developer Full Stack Junior 💻</b><br>
@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🎓 **Degree:** Associate Degree in Software Development *(Graduated 2026)*.
-- 📊 **Background:** University coursework in Statistics (Universidad Central del Ecuador).
+- 📊 **Background:** University coursework in Statistics (UCE).
 - 💻 **Current Focus:** Web application development (Frontend/Backend), REST APIs integration, and relational database optimization.
 - ⚙️ **Automation:** Creating integration scripts and data solutions using Google Apps Script, Advanced Excel, and Power Query.
 - 📍 **Location:** Quito, Ecuador.
@@ -66,8 +66,8 @@ Web platform designed for salary calculation automation and employee administrat
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=AlxsDnt04&theme=light&border_radius=27" alt="GitHub Stats Card" />
-  <img src="https://ghstats.dev/api/langs?username=AlxsDnt04&theme=light&layout=donut" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=AlxsDnt04&theme=light&border_radius=27&custom_title=My+Stats&size=compact" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=AlxsDnt04&theme=light&custom_title=My+Stats&layout=compact" alt="Top Languages" />
 </p>
 
 ---
