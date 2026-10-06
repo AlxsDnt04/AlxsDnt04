@@ -63,15 +63,6 @@ Plataforma web enfocada en la automatización de cálculos salariales y gestión
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlxsDnt04&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxsDnt04&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
----
-
 ### 📫 ¿Hablamos?
 
 - 📧 **Correo:** [alexisfree@live.com](mailto:alexisfree@live.com)
