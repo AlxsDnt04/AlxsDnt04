@@ -66,8 +66,8 @@ Web platform designed for salary calculation automation and employee administrat
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlxsDnt04&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxsDnt04&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://ghstats.dev/api/card?username=AlxsDnt04&theme=light&border_radius=27" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=AlxsDnt04&theme=light&layout=donut" alt="Top Languages" />
 </p>
 
 ---
