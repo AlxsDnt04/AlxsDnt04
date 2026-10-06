@@ -1,8 +1,8 @@
 # Hi there, I'm Alexis Carrión 👋
 
 <p align="center">
-  <b>Tecnólogo Superior en Desarrollo de Software 🎓 | Web Developer Full Stack Junior 💻</b><br>
-  <i>Apasionado por el desarrollo web, la automatización de procesos y la gestión de datos.</i>
+  <b>Associate Degree in Software Development 🎓 | Web Developer Full Stack Junior 💻</b><br>
+  <i>Passionate about web development, process automation, and data management.</i>
 </p>
 
 <p align="center">
@@ -12,19 +12,19 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-- 🎓 **Título:** Tecnólogo Superior en Desarrollo de Software *(Graduado 2026)*.
-- 📊 **Formación complementaria:** Estudios universitarios en Estadística (Universidad Central del Ecuador).
-- 💻 **Enfoque actual:** Desarrollo de aplicaciones web (Frontend/Backend), integración de APIs REST y optimización de bases de datos relacionales.
-- ⚙️ **Automatización:** Creación de scripts de integración y soluciones de datos con Google Apps Script, Excel Avanzado y Power Query.
-- 📍 **Ubicación:** Quito, Ecuador.
+- 🎓 **Degree:** Associate Degree in Software Development *(Graduated 2026)*.
+- 📊 **Background:** University coursework in Statistics (Universidad Central del Ecuador).
+- 💻 **Current Focus:** Web application development (Frontend/Backend), REST APIs integration, and relational database optimization.
+- ⚙️ **Automation:** Creating integration scripts and data solutions using Google Apps Script, Advanced Excel, and Power Query.
+- 📍 **Location:** Quito, Ecuador.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tech Stack & Tools
 
-**Lenguajes & Frontend**
+**Languages & Frontend**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
@@ -36,35 +36,44 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/REST%20APIs-0055E6?style=flat-square&logo=fastapi&logoColor=white)
 
-**Bases de Datos & Automatización**
+**Databases & Automation**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Herramientas & Entorno**
+**Tools & Environment**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📌 Proyectos Destacados
+### 📌 Featured Projects
 
-#### 📲 [Sistema de Control de Asistencia por QR](https://github.com/AlxsDnt04/Sistema_Asistencia)
-Aplicación web Full Stack para el registro y gestión de asistencia en tiempo real mediante lectura de códigos QR.
+#### 📲 [QR Code Attendance System](https://github.com/AlxsDnt04/Sistema_Asistencia)
+Full-stack web application for real-time attendance management and tracking via QR code scanning.
 - **Frontend:** React, JavaScript, HTML5, CSS3.
-- **Backend & BD:** Node.js, Express, MySQL (APIs REST).
-- **Características:** Interfaz para consulta de registros y automatización de procesos de asistencia.
+- **Backend & DB:** Node.js, Express, MySQL (REST APIs).
+- **Features:** User interface for record management and attendance automation.
 
-#### 💼 [Sistema de Gestión de Rol de Pagos](https://github.com/AlxsDnt04/SistemaRolV2)
-Plataforma web enfocada en la automatización de cálculos salariales y gestión administrativa de empleadores/empleados.
-- **Tecnologías:** PHP, JavaScript, HTML5, CSS3, MySQL.
-- **Características:** Automatización de liquidaciones salariales y generación de reportes de nómina.
+#### 💼 [Payroll Management System](https://github.com/AlxsDnt04/SistemaRolV2)
+Web platform designed for salary calculation automation and employee administrative management.
+- **Technologies:** PHP, JavaScript, HTML5, CSS3, MySQL.
+- **Features:** Automated payroll calculations and administrative reporting.
 
 ---
 
-### 📫 ¿Hablamos?
+### 📈 GitHub Stats
 
-- 📧 **Correo:** [alexisfree@live.com](mailto:alexisfree@live.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlxsDnt04&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxsDnt04&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- 📧 **Email:** [alexisfree@live.com](mailto:alexisfree@live.com)
 - 💼 **LinkedIn:** [Stalin Carrión](https://www.linkedin.com/in/stalin-carrión-jiménez-20a3663b7)
-- 📍 **Ubicación:** Quito, Ecuador
+- 📍 **Location:** Quito, Ecuador
